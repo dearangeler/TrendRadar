@@ -182,4 +182,6 @@ platforms:
   - id: "fastbull-express"
     name: "法布财经 快讯"
   - id: "fastbull-news"
-    name: "法布财经 头条
+    name: "法布财经 头条"
+  - id: "douban"
+    name: "豆瓣"
